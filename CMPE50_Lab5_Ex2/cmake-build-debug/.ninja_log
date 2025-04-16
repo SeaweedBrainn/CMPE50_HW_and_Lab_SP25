@@ -1,0 +1,5 @@
+# ninja log v6
+380	524	1741136295245324449	untitled2CMPE50_Lab5_Ex2	9cef258ad3ee540c
+6	477	1741135778644458747	CMakeFiles/untitled2CMPE50_Lab5_Ex2.dir/main.cpp.o	c17d91198980cafb
+1	380	1741136294865721819	CMakeFiles/untitled2CMPE50_Lab5_Ex2.dir/CMPE50_Lab5_Ex2.cpp.o	2b9b3e2bcff1dcad
+3	84	1741650571571595741	build.ninja	bd977fecb4de5d39
