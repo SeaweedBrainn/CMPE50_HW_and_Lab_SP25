@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(InheritanceAndPolymorphism_DoodleBugExample)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(InheritanceAndPolymorphism_DoodleBugExample DoodleBugs.cpp)

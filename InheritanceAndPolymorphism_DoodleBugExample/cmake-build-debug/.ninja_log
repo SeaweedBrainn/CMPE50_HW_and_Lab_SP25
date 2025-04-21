@@ -1,0 +1,6 @@
+# ninja log v6
+1	76	1745200184554745315	build.ninja	c09fe9d4c3880ada
+0	577	1745200184568611506	CMakeFiles/InheritanceAndPolymorphism_DoodleBugExample.dir/DoodleBugs.cpp.o	b8d6106350192803
+579	623	1745200185146867863	InheritanceAndPolymorphism_DoodleBugExample	c526873b71113049
+8	668	1745200664599728206	CMakeFiles/InheritanceAndPolymorphism_DoodleBugExample.dir/DoodleBugs.cpp.o	b8d6106350192803
+668	784	1745200665260352916	InheritanceAndPolymorphism_DoodleBugExample	c526873b71113049

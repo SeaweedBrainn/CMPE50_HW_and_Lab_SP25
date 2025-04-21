@@ -1,0 +1,4 @@
+# ninja log v6
+1	68	1745200107101643491	build.ninja	9cb4dc3a40b7831e
+1	620	1745200107112075885	CMakeFiles/OperatorOverloadingExample.dir/OperatorOverloading.cpp.o	143166f0ba85cba2
+622	664	1745200107733046988	OperatorOverloadingExample	f7d7fea139d5853f

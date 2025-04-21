@@ -1,0 +1,4 @@
+# ninja log v6
+1	66	1745200819726816315	build.ninja	7c15e89f74c8ace6
+1	700	1745200819735895706	CMakeFiles/InheritanceAndPolymorphism_URLEncoderExample.dir/URLEncode.cpp.o	8f23fdd0db8d67cc
+702	742	1745200820437669988	InheritanceAndPolymorphism_URLEncoderExample	313bc8d7d697198e
