@@ -1,0 +1,5 @@
+# ninja log v6
+2	808	1745355070188343127	CMakeFiles/LinkedListExample.dir/main.cpp.o	72bded0abeac78ad
+810	927	1745355070997162069	LinkedListExample	6680abc3a0f26487
+0	608	1745359424424651199	CMakeFiles/LinkedListExample.dir/LinkedList.cpp.o	a4c732be61c84656
+610	728	1745359425034992839	LinkedListExample	c6196c6d6c5b4f05
